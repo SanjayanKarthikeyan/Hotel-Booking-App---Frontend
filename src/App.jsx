@@ -16,6 +16,7 @@ import Login from "./components/Login/Login";
 import AuthProvider from "./components/context/AuthProvider";
 import ProtectedRoute from "./components/ProtectedRoute/ProtectedRoute";
 
+
 function App() {
   return (
     <AuthProvider>
